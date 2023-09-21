@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pouria-Meftahi
 - 👀 I’m interested in Economics And Stock Market.
-- 🌱 I’m currently learning Playing Piano Again!
-- 💞️ I’m looking to collaborate on StartUp Project About Stock Market And Trading
+- 💞️ I’m looking to collaborate on StartUp Project About Stock Market And Economy
 - 📫 How to reach me pouriameftahi@hotmail.com
 
 <!---
